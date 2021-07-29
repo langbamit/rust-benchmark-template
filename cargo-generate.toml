@@ -1,0 +1,5 @@
+[placeholders.tool]
+type = "string"
+prompt = "What tool to use?"
+choices = ["iai", "criterion"]
+default = "criterion"
